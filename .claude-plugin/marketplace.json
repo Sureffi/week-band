@@ -1,7 +1,0 @@
-{
-  "name": "week-band",
-  "owner": { "name": "Sureffi" },
-  "plugins": [
-    { "name": "week-band", "source": "./", "description": "The plan above the prompt: a page's dot block as a band, one node a packet" }
-  ]
-}

@@ -1,14 +1,14 @@
 {
   "name": "week-band",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "The plan above the prompt: a page's dot block, one node a packet, its class the state, its tooltip the done-when",
   "types": "./types/index.d.ts",
   "userConfig": {
     "file": {
       "type": "string",
       "description": "The page whose ```dot block is the plan",
-      "default": "PLAN.md",
-      "title": "Plan file"
+      "title": "Plan file",
+      "required": true
     }
   }
 }
